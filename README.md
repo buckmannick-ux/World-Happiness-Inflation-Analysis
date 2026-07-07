@@ -8,13 +8,11 @@ Using SQL, Python and Power BI, I combined multiple real-world datasets, perform
 
 The aim was to investigate whether economic indicators such as inflation and unemployment have a measurable relationship with national well-being.
 
----
 
 ## Business Question
 
 **How have inflation and unemployment influenced happiness globally between 2015 and 2023?**
 
----
 
 ## Datasets
 
@@ -33,7 +31,6 @@ The aim was to investigate whether economic indicators such as inflation and une
   - Year
   - Unemployment Rate
 
----
 
 ## Technologies Used
 
@@ -43,7 +40,6 @@ The aim was to investigate whether economic indicators such as inflation and une
 - Excel
 - Pandas
 
----
 
 ## Project Workflow
 
@@ -74,7 +70,6 @@ Created an interactive dashboard featuring:
 
 allowing users to explore trends across countries and years.
 
----
 
 ## Key Findings
 
@@ -84,7 +79,6 @@ allowing users to explore trends across countries and years.
 
 A weak negative relationship exists between inflation and happiness, suggesting countries with higher inflation tend to report slightly lower happiness scores.
 
----
 
 ### Unemployment vs Happiness
 
@@ -92,15 +86,12 @@ A weak negative relationship exists between inflation and happiness, suggesting 
 
 Higher unemployment also shows a weak negative relationship with happiness, indicating that unemployment may contribute to reduced national well-being.
 
----
 
 ### Inflation vs Unemployment
 
 **Correlation:** **+0.056**
 
 Very little relationship exists between inflation and unemployment across the analysed countries.
-
----
 
 
 ## Skills Demonstrated
@@ -116,7 +107,6 @@ Very little relationship exists between inflation and unemployment across the an
 - Python
 - Data Storytelling
 
----
 
 ## Future Improvements
 
@@ -125,7 +115,6 @@ Very little relationship exists between inflation and unemployment across the an
 - Expand the dashboard with additional filters and drill-through pages.
 - Automate data refresh using Power Query.
 
----
 
 ## About Me
 
@@ -135,6 +124,5 @@ I'm passionate about using data to solve problems and communicate meaningful ins
 
 If you'd like to connect, feel free to reach out through LinkedIn or GitHub.
 
----
 
-⭐ If you found this project interesting, feel free to explore the repository or connect with me.
+If you found this project interesting, feel free to explore the repository or connect with me.
